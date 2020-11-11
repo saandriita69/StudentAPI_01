@@ -1,0 +1,55 @@
+{
+  "Student": [
+
+    {
+      "ID": "0f8fad5b-d9cb-469f-a165-70867728950e",
+      "Name": "James",
+      "Surname": "Burton",
+      "BirthDate": "05-12-2000",
+      "Street": "Postas,13",
+      "City": "Aranjuez",
+      "PostalCode": "28300"
+
+    },
+    {
+      "ID": "0f8fad5b-d9cb-469f-a165-70867728950a",
+      "Name": "Lucas",
+      "Surname": "Washington",
+      "BirthDate": "06-03-2000",
+      "Street": "Virgen,82",
+      "City": "Aranjuez",
+      "PostalCode": "28300"
+
+    },
+    {
+      "ID": "0f8fad5b-d9cb-469f-a165-70867728950b",
+      "Name": "Jake",
+      "Surname": "Paul",
+      "BirthDate": "08-08-1999",
+      "Street": "Rosa,24",
+      "City": "Aranjuez",
+      "PostalCode": "28300"
+
+    },
+    {
+      "ID": "0f8fad5b-d9cb-469f-a165-70867728950c",
+      "Name": "Mery",
+      "Surname": "Red",
+      "BirthDate": "12-10-2000",
+      "Street": "Valeras,10",
+      "City": "Aranjuez",
+      "PostalCode": "28300"
+
+    },
+    {
+      "ID": "0f8fad5b-d9cb-469f-a165-70867728950d",
+      "Name": "Manuel",
+      "Surname": "Santos",
+      "BirthDate": "06-01-2001",
+      "Street": "Stuart,4",
+      "City": "Aranjuez",
+      "PostalCode": "28300"
+
+    }
+  ]
+}
